@@ -1,0 +1,5 @@
+git init: init command to create a new Git repository
+git clone: to download the folder from the server to our local machine.
+git config: This command allows you to specify the username and email address that will be used with your commits
+git add: To move files from the Working Directory to the Staging Index, use the git add command
+git commit: This command saves a log message along with the commit id of the modifications made to the git repository
