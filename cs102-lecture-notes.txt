@@ -3,3 +3,9 @@ git clone: to download the folder from the server to our local machine.
 git config: This command allows you to specify the username and email address that will be used with your commits
 git add: To move files from the Working Directory to the Staging Index, use the git add command
 git commit: This command saves a log message along with the commit id of the modifications made to the git repository
+
+
+Summary of today's lecture:-
+In the lecture we have learnt about Git and Gitub.These are the version control systems and are very useful to keep the track of changes we make in our files.Also, we've learnt that the Git follows a 2 stage system. The first step is stagging and then commit the modified version.We learnt some commands in Git and Github. Some of them were git clone, git add, git push, git pull. Also, we've learnt about Github Desktop.Like how to clone the repositories from Github Desktops.
+
+Also, we learnt how to setup visual studio code (vsc) for pur machines. Learnt about the markdown language, which is a lightweight markup language for creating the formatted text using a plain-text editor. Also, we installed a markdown visualizing extension in vsc.
